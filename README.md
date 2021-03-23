@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gabriel Carvalho Barbosa.</h1>
 <h3 align="center">A passionate fullstack developer from Brazil.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=idallek&label=Profile%20views&color=0e75b6&style=flat" alt="idallek" /> </p>
-
 - 🌱 I’m currently learning **HTML, CSS, Javascript, React and a little bit of everything :) on Trybe <3.**
 
 - 📫 How to reach me **gabrielcarvalho466@gmail.com**
