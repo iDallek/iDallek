@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VSCode, Postgress, Figma, Trello, Git e Github.</strong>
+  💼 Ferramentas: <strong>VSCode, Postgress, Figma, Trello, Heroku, Git e Github.</strong>
 </p>
 
 <p align="left">
