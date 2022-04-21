@@ -1,15 +1,15 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  👋 Hey devs, me chamo Gabriel Carvalho. Sou <strong>Desenvolvedor Full-Stack</strong> e estudante na <strong>Trybe</strong>.
+  👋 Hey devs, me chamo Gabriel Carvalho. Sou <strong>Desenvolvedor Full-Stack</strong> e aguardando formação na <strong>Trybe</strong>.
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>HTML, CSS, JavaScript, ReactJs, MongoDB, MySQL, Express e Sequelize.</strong>
+  🦄 Linguagens/Stacks: <strong>HTML, CSS, JavaScript, ReactJs, Next.js, TypeScript, MongoDB, MySQL, Express, Sequelize, Python</strong> e iniciante em <strong>Java 8.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VSCode, Postgress, Figma, Trello, Heroku, Git e Github.</strong>
+  💼 Ferramentas: <strong>VSCode, Figma, Trello, Heroku, Git e Github.</strong>
 </p>
 
 <p align="left">
