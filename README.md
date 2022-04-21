@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens/Stacks: <strong>HTML, CSS, JavaScript, ReactJs, Next.js, TypeScript, MongoDB, MySQL, Express, Sequelize, Python</strong> e iniciante em <strong>Java 8.</strong>
+  🦄 Linguagens/Stacks: <strong>HTML, CSS, JavaScript, ReactJs, Next.js, TypeScript, MongoDB, MySQL, Express, Sequelize, Python</strong> e <strong>Java.</strong>
 </p>
 
 <p align="left">
