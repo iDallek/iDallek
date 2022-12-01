@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  👋 Hey devs, me chamo Gabriel Carvalho. Sou <strong>Desenvolvedor Full-Stack</strong> e aguardando formação na <strong>Trybe</strong>.
+  👋 Hey devs, me chamo Gabriel Carvalho. Sou <strong>Desenvolvedor Full-Stack</strong> formado na <strong>Trybe</strong>.
 </p>
 
 <p align="left">
